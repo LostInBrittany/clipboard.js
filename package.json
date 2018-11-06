@@ -1,5 +1,5 @@
 {
-  "name": "clipboard",
+  "name": "@migrate-to-esm/clipboard",
   "version": "2.0.1",
   "description": "Modern copy to clipboard. No Flash. Just 2kb",
   "repository": "zenorocha/clipboard.js",
