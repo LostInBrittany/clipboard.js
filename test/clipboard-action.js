@@ -1,5 +1,5 @@
 import ClipboardAction from '../src/clipboard-action';
-import Emitter from 'tiny-emitter';
+import Emitter from '@migrate-to-esm/tiny-emitter';
 
 describe('ClipboardAction', () => {
     before(() => {

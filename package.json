@@ -1,8 +1,8 @@
 {
-  "name": "clipboard",
-  "version": "2.0.6",
+  "name": "@migrate-to-esm/clipboard",
+  "version": "2.0.6-1",
   "description": "Modern copy to clipboard. No Flash. Just 2kb",
-  "repository": "zenorocha/clipboard.js",
+  "repository": "https://github.com/LostInBrittany/clipboard.js",
   "license": "MIT",
   "main": "dist/clipboard.js",
   "module": "src/clipboard.js",
